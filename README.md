@@ -6,5 +6,5 @@
 "D:/testing/ConsoleApplication1/out.bmp"
 ## Способы запуска:
 1. Открыть файл "ConsoleApplication1.sln" непосредственно через VS, произвести сборку и запуск F5.
-2. Открыть файл сборки "ConsoleApplication1.exe" по пути "ConsoleApplication1\x64\Debug"
+2. Открыть файл сборки "ConsoleApplication1.exe"
 3. Запустить "ConsoleApplication1.exe" непосредстенно через командную строку
