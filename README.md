@@ -1,7 +1,7 @@
 ## ConsoleApplication
 
-###- Клонировать репозиторий на свой компьютер
-### - В файле "ConsoleApplication1.cpp" в переменной inputFileName указать имя входного изображения, а в переменной outputFileName указать путь выходного изображения, например:
+ - Клонировать репозиторий на свой компьютер
+ - В файле "ConsoleApplication1.cpp" в переменной inputFileName указать имя входного изображения, а в переменной outputFileName указать путь выходного изображения, например:
 "D:/testing/ConsoleApplication1/in.bmp", 
 "D:/testing/ConsoleApplication1/out.bmp"
 ## Способы запуска:
